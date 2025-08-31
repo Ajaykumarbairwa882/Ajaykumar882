@@ -1,6 +1,18 @@
 
 
 <h1 align="center">Hi there 👋, it's 👨‍💻 Ajay Kumar</h1>
+----
+
+💀 "Talk is cheap. Show me the code." – Ak  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👨‍💻+Coder+%7C+💀+Hacker+Vibes;Always+Learning+New+Tech;Open+Source+%26+Code+Lover)](https://git.io/typing-svg)
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=green)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=green)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
+
+
 
  <pre>
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -60,20 +72,10 @@
 
 ----
 
-💀 "Talk is cheap. Show me the code." – Linus Torvalds  
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👨‍💻+Coder+%7C+💀+Hacker+Vibes;Always+Learning+New+Tech;Open+Source+%26+Code+Lover)](https://git.io/typing-svg)
-
 
 
 ---
 
-## 5️⃣ Hacker Green Badges  
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=green)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=green)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 
 
