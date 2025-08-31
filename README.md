@@ -1,9 +1,7 @@
-<!-- Hacker Style GitHub Profile README -->
 
-<h1 align="center">👨‍💻 Ajay Kumar</h1>
-<!-- Matrix GIF header -->
 
-<!-- Your ASCII banner -->
+<h1 align="center">Hi there 👋, it's 👨‍💻 Ajay Kumar</h1>
+
  <pre>
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -46,15 +44,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ajay-kumar-882&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-kumar-882&theme=radical" height="180" />
 </p>
+----
 
----
 
-## 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://github.com/Ajay-kumar-882/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
----
-
-<p align="center">⚡ "Hack the Code, Build the Future" ⚡</p>
+   
