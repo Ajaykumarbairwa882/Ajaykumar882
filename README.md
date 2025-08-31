@@ -29,7 +29,7 @@
 
 ## 🕶️ About Me  
 
-- 🚀 Full Stack Developer from India  
+- 🚀 Full Stack Developer || Mern Stack Developer Enthusiast
 - 💻 Love working with **JavaScript, React, Tailwind, Node.js**  
 - 🧑‍💻 Exploring **Cybersecurity & Open Source**  
 - ⚡ Fun fact: I debug faster at **2 AM** 🌙  
