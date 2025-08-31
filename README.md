@@ -26,6 +26,19 @@
 </pre>
 
 ---
+> whoami
+  Ajay | Developer | Hacker Vibes
+> skills
+  - Full Stack 💻
+  - JavaScript ⚡
+  - Tailwind 🎨
+  - Python 🐍
+> motto
+  "Eat 🍕 Sleep 😴 Code 💻 Repeat 🔁"
+
+
+
+
 
 ## 🕶️ About Me  
 
@@ -47,9 +60,20 @@
 
 ----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="700" />
-</p>
+💀 "Talk is cheap. Show me the code." – Linus Torvalds  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👨‍💻+Coder+%7C+💀+Hacker+Vibes;Always+Learning+New+Tech;Open+Source+%26+Code+Lover)](https://git.io/typing-svg)
+
+
+
+---
+
+## 5️⃣ Hacker Green Badges  
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=green)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=green)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 
 
