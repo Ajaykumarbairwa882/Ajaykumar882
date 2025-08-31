@@ -13,4 +13,12 @@ MERN STACK DEVELOPER | | SOFTWARE DEVELOPER | | WEB DEVELOPER ENTHUSIAST
 - ⚡ Fun fact: I believe **consistency beats motivation** in coding 🚀  
 - 🎯 Goal: Become a skilled developer & contribute to **Open Source**  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="600" />
+</p>
+
+
+
+
+
 <img src="https://camo.githubusercontent.com/d23aea8b72c5758f4eaf1fa64c2df624d925942f5d3bcfaf4cb1f22ef8424356/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7072616a6a616c64686172267468656d653d7261646963616c"/>
