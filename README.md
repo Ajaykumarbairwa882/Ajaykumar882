@@ -5,7 +5,7 @@
 
 <h1  align="center"> 💀 "Talk is cheap. Show me the code." – Ak  </h1>
 
-<h1  align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👨‍💻+Coder+%7C+💀+Hacker+Vibes;Always+Learning+New+Tech;Open+Source+%26+Code+Lover)](https://git.io/typing-svg) </h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👨‍💻+Coder+%7C+💀+Hacker+Vibes;Always+Learning+New+Tech;Open+Source+%26+Code+Lover)](https://git.io/typing-svg)
 
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=green)
