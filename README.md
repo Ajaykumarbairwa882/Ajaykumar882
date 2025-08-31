@@ -3,14 +3,15 @@
 <h1 align="center">👨‍💻 Ajay Kumar</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="700" />
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="700" />
 </p>
 
-
----
+<p align="center">
+  <img src="https://media.giphy.com/media/J5zHDkMcQO4X3KQfXq/giphy.gif" width="700" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="700" />
+  <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width="700" />
 </p>
 
 ---
