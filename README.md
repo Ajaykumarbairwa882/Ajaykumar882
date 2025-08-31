@@ -1,24 +1,43 @@
-<img src="https://camo.githubusercontent.com/b37efb7bfa86abae8c3cb3e8b6c7c6d7e31c55b396804a955f3d71f4013e3e13/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a675f5f6a6965734c52496643526566564736395066772e676966" width="900" height=1000 />
+<!-- Hacker Style GitHub Profile README -->
 
-Hi there 👋, it's Ajay Kumar !!
-
-MERN STACK DEVELOPER | | SOFTWARE DEVELOPER | | WEB DEVELOPER ENTHUSIAST
-
-## 👨‍💻 About Me  
-
-- 🌱 I’m currently learning **Full Stack Web Development**  
-- 💡 I enjoy building **modern, responsive, and user-friendly web apps**  
-- 🔭 I’m working on exciting **personal projects** to sharpen my skills  
-- 💬 Ask me about **JavaScript, React, Tailwind, Node.js**  
-- ⚡ Fun fact: I believe **consistency beats motivation** in coding 🚀  
-- 🎯 Goal: Become a skilled developer & contribute to **Open Source**  
+<h1 align="center">👨‍💻 Ajay Kumar</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="600" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FF00&center=true&vCenter=true&lines=Hacker+%7C+Developer+%7C+Tech+Explorer;Full+Stack+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="700" />
+</p>
 
+---
 
+## 🕶️ About Me  
 
-<img src="https://camo.githubusercontent.com/d23aea8b72c5758f4eaf1fa64c2df624d925942f5d3bcfaf4cb1f22ef8424356/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7072616a6a616c64686172267468656d653d7261646963616c"/>
+- 🚀 Full Stack Developer from India  
+- 💻 Love working with **JavaScript, React, Tailwind, Node.js**  
+- 🧑‍💻 Exploring **Cybersecurity & Open Source**  
+- ⚡ Fun fact: I debug faster at **2 AM** 🌙  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" height="180" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">⚡ "Hack the Code, Build the Future" ⚡</p>
