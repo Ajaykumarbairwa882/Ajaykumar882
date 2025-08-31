@@ -3,8 +3,9 @@
 <h1 align="center">👨‍💻 Ajay Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FF00&center=true&vCenter=true&lines=Hacker+%7C+Developer+%7C+Tech+Explorer;Full+Stack+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="700" />
 </p>
+
 
 ---
 
