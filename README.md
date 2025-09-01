@@ -23,7 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=green)
 
 <p align="center">
-   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ3amZ1bGFrdTVmc3prdWM3MHY5aDAwcjNlMW1udDdiOHBncmRoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTheOT8fz6vMzQeFmB/giphy.gif" height="180" />
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ3amZ1bGFrdTVmc3prdWM3MHY5aDAwcjNlMW1udDdiOHBncmRoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTheOT8fz6vMzQeFmB/giphy.gif" height="180" width="800" />
 </p>
 
  <pre>
