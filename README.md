@@ -1,6 +1,6 @@
 
 
-<h1 align="center" color="red" >Hi there 👋, it's 👨‍💻 Ajay Kumar </h1>
+<h1 align="center" color="red" >Hi there 👋, it's 👨‍💻 Ajay Kumar  </h1>
 
 <h1  align="center"> 💀 "Talk is cheap. Show me the code." – Ak  </h1>
 
